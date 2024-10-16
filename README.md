@@ -7,7 +7,7 @@
 <!-- Seção de informações pessoais -->
 <ul>
     <!-- Status de aprendizado atual -->
-    <li>🌱 Atualmente estou aprendendo <strong>Spring Boot, React</strong></li>
+    <li>🌱 Atualmente desenvolvendo com <strong>Spring Boot, React</strong></li>
     <!-- Informação de contato -->
     <li>📫 Como me encontrar: Email[ <strong>andreparoon@gmail.com</strong> ]</li>
     <!-- Link para o currículo -->
