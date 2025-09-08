@@ -14,5 +14,5 @@
     <!-- Informação de contato -->
     <li>📫 Como me encontrar: Email [ <strong>andreparoon@gmail.com</strong> ]</li>
     <!-- Link para o currículo -->
-    <li>📄 Conheça minhas experiências: <a href="https://drive.google.com/file/d/14C6v-B7y9VJqNuhdAhbLI3ELH8Xvjujb/view?usp=sharing" target="_blank">Currículo</a></li>
+    <li>📄 Conheça minhas experiências: <a href="https://drive.google.com/file/d/1mqKtXW0BGucxeCPsOk1WL7fL2zxZZm0U/view" target="_blank">Currículo</a></li>
 </ul>
